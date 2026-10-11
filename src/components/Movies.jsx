@@ -1,3 +1,4 @@
+import React from 'react'; 
 export const Movies = ({ listaNaFilmovi }) => {
     return (
         <div id='movies-list'>
